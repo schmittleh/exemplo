@@ -1,2 +1,2 @@
 # exemplo
-<a href="https://lethicaschmitt.netlify.app/>veja meu site </a>
+<a href="https://lethicaschmitt.netlify.app"/>veja meu site </a>
